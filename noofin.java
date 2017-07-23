@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class noofint
+public class noofin
 {
 public static void main(String args[])
 {
