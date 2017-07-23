@@ -14,5 +14,5 @@ cunt++;
 num=num/10;
 }
 System.out.println("no.of digit="+cunt);
-]
+}
 }
