@@ -1,9 +1,7 @@
 #include<stdio.h> 
 void main() 
 { 
-int n,m,i,max; 
-printf("enter how many number"); 
-scanf("%d",&n); 
+int n=10,m,i,max;  
 printf("Enter the numbers"); 
 scanf("%d",&m); 
 max=m; 
